@@ -1,5 +1,7 @@
 {
   "name": "poc-fingerprint-auth",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
